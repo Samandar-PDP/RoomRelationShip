@@ -26,5 +26,4 @@ data class PlayerAndClub(
         entityColumn = "ownerPlayerId"
     )
     val clubList: List<Club>
-
 )
